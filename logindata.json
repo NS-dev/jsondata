@@ -1,0 +1,15 @@
+[
+    {
+        "name" : "abc",
+        "password" : "A12345"
+    },
+    {
+        "name" : "pqr",
+        "password" : "P12345"
+    },
+    {
+        "name" : "xyz",
+        "password" : "X12345"
+    }
+    
+]
